@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/timoh/Documents/mlworkshop/media/videos/perceptron/480p15/partial_movie_files/ValueIncreasingScene/4266129954_411232941_3152371228.mp4'
+file 'file:/Users/timoh/Documents/mlworkshop/media/videos/perceptron/480p15/partial_movie_files/ValueIncreasingScene/1442284246_1076466279_3892224967.mp4'
+file 'file:/Users/timoh/Documents/mlworkshop/media/videos/perceptron/480p15/partial_movie_files/ValueIncreasingScene/1442284246_2274953751_3076659977.mp4'
+file 'file:/Users/timoh/Documents/mlworkshop/media/videos/perceptron/480p15/partial_movie_files/ValueIncreasingScene/1442284246_3404953333_3076659977.mp4'
+file 'file:/Users/timoh/Documents/mlworkshop/media/videos/perceptron/480p15/partial_movie_files/ValueIncreasingScene/1442284246_1076466279_3939974041.mp4'
+file 'file:/Users/timoh/Documents/mlworkshop/media/videos/perceptron/480p15/partial_movie_files/ValueIncreasingScene/1442284246_85739477_405399935.mp4'
+file 'file:/Users/timoh/Documents/mlworkshop/media/videos/perceptron/480p15/partial_movie_files/ValueIncreasingScene/1442284246_1449629194_2032110091.mp4'
+file 'file:/Users/timoh/Documents/mlworkshop/media/videos/perceptron/480p15/partial_movie_files/ValueIncreasingScene/1442284246_2322502514_693463130.mp4'
+file 'file:/Users/timoh/Documents/mlworkshop/media/videos/perceptron/480p15/partial_movie_files/ValueIncreasingScene/1442284246_1076466279_3718960004.mp4'
+file 'file:/Users/timoh/Documents/mlworkshop/media/videos/perceptron/480p15/partial_movie_files/ValueIncreasingScene/1442284246_3991869050_2473299693.mp4'
